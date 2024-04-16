@@ -49,3 +49,5 @@ git status
 git commit -m "label"
 git status
 git log
+git show
+git show cid
